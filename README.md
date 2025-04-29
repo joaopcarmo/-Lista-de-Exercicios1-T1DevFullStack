@@ -31,6 +31,7 @@ E também um terminal, como:
 ```bash
 cd lista1-js
 ```
+(Substitua exercicio01.js pelo nome do arquivo correspondente ao exercício que deseja testar.)
 
 ---
 
