@@ -37,23 +37,24 @@ cd lista1-js
 
 ## 📁 Estrutura dos Arquivos
 
-| Arquivo            | Descrição                                                                                     |
-| :----------------- | :-------------------------------------------------------------------------------------------- |
-| **exercicio01.js** | Verifica se um número é par ou ímpar.                                                         |
-| **exercicio02.js** | Classifica a idade em criança, adolescente, adulto ou idoso.                                  |
-| **exercicio03.js** | Avalia uma nota como aprovado, recuperação ou reprovado.                                      |
-| **exercicio04.js** | Menu interativo usando `switch-case`.                                                         |
-| **exercicio05.js** | Calcula o IMC e determina a categoria de peso.                                                |
-| **exercicio06.js** | Verifica se três lados formam um triângulo e qual o tipo (Isósceles, Escaleno ou Equilátero). |
-| **exercicio07.js** | Calcula o valor total da compra de maçãs considerando descontos.                              |
-| **exercicio08.js** | Lê dois valores e exibe-os em ordem crescente.                                                |
-| **exercicio09.js** | Realiza uma contagem regressiva de 10 até 1 usando `for`.                                     |
-| **exercicio10.js** | Lê um número inteiro e o exibe 10 vezes.                                                      |
-| **exercicio11.js** | Solicita 5 números e calcula a soma total.                                                    |
-| **exercicio12.js** | Exibe a tabuada de um número fornecido pelo usuário (de 1 a 10).                              |
-| **exercicio13.js** | Calcula a média de números decimais inseridos até que se digite 0.                            |
-| **exercicio14.js** | Calcula o fatorial de um número fornecido pelo usuário.                                       |
-| **exercicio15.js** | Gera e imprime os primeiros 10 números da sequência de Fibonacci.                             |
+| Arquivo           | Descrição | Link |
+| :---------------- | :-------- | :--- |
+| **exercicio01.js** | Verifica se um número é par ou ímpar. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio1.js) |
+| **exercicio02.js** | Classifica a idade em criança, adolescente, adulto ou idoso. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio2.js) |
+| **exercicio03.js** | Avalia uma nota como aprovado, recuperação ou reprovado. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio3.js) |
+| **exercicio04.js** | Menu interativo usando `switch-case`. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio4.js) |
+| **exercicio05.js** | Calcula o IMC e determina a categoria de peso. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio5.js) |
+| **exercicio06.js** | Verifica se três lados formam um triângulo e qual o tipo. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio6.js) |
+| **exercicio07.js** | Calcula o valor total da compra de maçãs com desconto. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio7.js) |
+| **exercicio08.js** | Lê dois valores e exibe em ordem crescente. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio8.js) |
+| **exercicio09.js** | Contagem regressiva de 10 até 1 com `for`. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio9.js) |
+| **exercicio10.js** | Lê um número e exibe 10 vezes. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio10.js) |
+| **exercicio11.js** | Solicita 5 números e soma os valores. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio11.js) |
+| **exercicio12.js** | Tabuada de 1 a 10 de um número. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio12.js) |
+| **exercicio13.js** | Média de decimais até que se digite 0. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio13.js) |
+| **exercicio14.js** | Calcula o fatorial de um número. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio14.js) |
+| **exercicio15.js** | Imprime os 10 primeiros números de Fibonacci. | [🔗 Ver no GitHub](https://github.com/joaopcarmo/-Lista-de-Exercicios1-T1DevFullStack/blob/main/Lista-de-Exercicios1-Codifica/exercicio15.js) |
+
 
 ---
 
